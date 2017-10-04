@@ -1,0 +1,47 @@
+CS101 Introduction To Computing
+CS201 Introduction To Programing
+CS301 Data Structures
+CS302 Digital Logic And Design
+CS304 Object Oriented Programming
+CS401 Computer Artitecture And Assembly Language Programming
+CS402 Theory Of Automata
+CS403 Database Management System
+CS408 Human Computer Interaction
+CS410 Visual Programing
+CS411 Visual Programming
+CS501 Advance Computer Artitecture
+CS502 Fundamentals of Algorithms
+CS503 Graph Theory and Algorithm
+CS504 Software Engineering
+CS506 Web Development and Design
+CS507 Information Systems
+CS508 Modern Programming Languages
+CS601 Data Communication
+CS602 Computer Graphics
+CS604 Operating Systems
+CS605 Software Engineering II
+CS606 Compiler Construction
+CS607 Artificial Intelligence
+CS609 System Programming
+CS610 Computer Networks
+CS612 Distributed Database Management System
+CS614 Data Warehouse
+CS615 Software Project Management
+CS701 Theory of Computation
+CS702 Advanced Algorithms Analysis and Design
+CS703 Advanced Operating System
+CS704 Advanced Computer Architecture
+CS706 Software Quality Assurance
+CS707 Network Security
+CS708 Software Requirements Engineering
+CS709 Formal Methods for Software Engineering
+CS710 Mobile and Pervasive Computing
+CS711 Software Design
+CS712 Distributed Database Management
+CS713 Object Oriented Database Management System
+CS716 Advanced Computer Network
+CS718 Wireless Network
+CS721 Network Performance and Evaluation
+CS723 Probability Stochastic Process
+CS724 Software Process Improvement
+CS726 Information Retrieval Techniques
